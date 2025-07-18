@@ -1,1 +1,1 @@
-this is fees related cmd
+print("this is fees related commit")
